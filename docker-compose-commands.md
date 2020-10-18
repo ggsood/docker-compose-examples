@@ -1,4 +1,4 @@
-## Basic config example
+## Basic config example - 
  
 ```yml
 # docker-compose.yml
