@@ -1,0 +1,23 @@
+-------------------- Auto-Git Log --------------------
+		Sat Oct 24 2020 23:05:26 GMT+0100 (British Summer Time)
+------------------------------------------------------
+
+Modified files:
+* Vault-Consul-Docker/consul/data/checkpoint-signature
+* Vault-Consul-Docker/consul/data/node-id
+* Vault-Consul-Docker/consul/data/raft/raft.db
+* Vault-Consul-Docker/consul/data/serf/local.snapshot
+* Vault-Consul-Docker/consul/data/serf/remote.snapshot
+
+
+Created files:
+* .autogit/logs/log-24-9-2020-22-35-17.txt
+
+
+Deleted files:
+* Vault-Consul-Docker/consul/data/checks/e4e0de33d3269850b53baf3edc9272e0
+* Vault-Consul-Docker/consul/data/checks/state/e4e0de33d3269850b53baf3edc9272e0
+* Vault-Consul-Docker/consul/data/services/7850ed48feff34d65772cd0823e10b19
+
+
+Renamed files:
