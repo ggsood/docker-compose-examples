@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+		Sat Oct 24 2020 23:35:36 GMT+0100 (British Summer Time)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .autogit/logs/log-24-9-2020-23-5-26.txt
+
+
+Deleted files:
+
+
+Renamed files:
