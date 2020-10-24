@@ -1,0 +1,41 @@
+-------------------- Auto-Git Log --------------------
+		Sat Oct 24 2020 22:35:17 GMT+0100 (British Summer Time)
+------------------------------------------------------
+
+Modified files:
+* Vault-Consul-Docker/docker-compose.yml
+* Vault-Consul-Docker/vault/config/vault-config.json
+* Vault-Consul-Docker/vault/data/core/_mounts
+* Vault-Consul-Docker/vault/data/sys/counters/requests/2020/_10
+* Vault-Consul-Docker/vault/logs/audit.log
+* Vault-Consul-Docker/vault/policies/app-policy.json
+
+
+Created files:
+* .autogit/logs/log-24-9-2020-21-31-59.txt
+* Vault-Consul-Docker/consul/Dockerfile
+* Vault-Consul-Docker/consul/config/consul-config.json
+* Vault-Consul-Docker/consul/data/checkpoint-signature
+* Vault-Consul-Docker/consul/data/checks/e4e0de33d3269850b53baf3edc9272e0
+* Vault-Consul-Docker/consul/data/checks/state/e4e0de33d3269850b53baf3edc9272e0
+* Vault-Consul-Docker/consul/data/node-id
+* Vault-Consul-Docker/consul/data/raft/peers.info
+* Vault-Consul-Docker/consul/data/raft/raft.db
+* Vault-Consul-Docker/consul/data/serf/local.snapshot
+* Vault-Consul-Docker/consul/data/serf/remote.snapshot
+* Vault-Consul-Docker/consul/data/services/7850ed48feff34d65772cd0823e10b19
+* Vault-Consul-Docker/vault/data/logical/c295375e-8dfc-1be5-c34f-c9108f794b19/archive/_foo
+* Vault-Consul-Docker/vault/data/logical/c295375e-8dfc-1be5-c34f-c9108f794b19/policy/_foo
+* Vault-Consul-Docker/vault/data/logical/ce6783aa-f325-6c78-7e2b-acd0d9dd6538/20573059-ce39-eaa2-4dc4-8ad03149a78a/metadata/5kKQGiWwMmkKjYbDa0bJc6C0yKsUJQND5OZZcbKgxZL4Wz4QSWiipHpOGJGviB/_5kKHfZbU7ZGUo0LhUTJxTVIgUOnliG91vdY5a6FOQPAJWfve4MVZLChPSaN3DQ
+* Vault-Consul-Docker/vault/data/logical/ce6783aa-f325-6c78-7e2b-acd0d9dd6538/20573059-ce39-eaa2-4dc4-8ad03149a78a/versions/dd8/_8d645891423085ef6f85cfd8f00b06f471d162a4783d4f26cd0330857e23d
+* Vault-Consul-Docker/vault/data/sys/expire/id/auth/token/create/_h82d550e6c7b1512fd5f88c870834f9078bdc92a436d10864e64c8a2a7775dba8
+* Vault-Consul-Docker/vault/data/sys/policy/_app
+* Vault-Consul-Docker/vault/data/sys/token/accessor/_9055b25bbdaf9b41e05e52c1e56c3b184cb4b00f
+* Vault-Consul-Docker/vault/data/sys/token/id/_h82d550e6c7b1512fd5f88c870834f9078bdc92a436d10864e64c8a2a7775dba8
+* Vault-Consul-Docker/vault/data/sys/token/parent/he85be5735211fe9263a69e243bfec31aaadc01b584fc493180327a1665e08676/_h82d550e6c7b1512fd5f88c870834f9078bdc92a436d10864e64c8a2a7775dba8
+
+
+Deleted files:
+
+
+Renamed files:
