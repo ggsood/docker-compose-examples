@@ -1,0 +1,52 @@
+-------------------- Auto-Git Log --------------------
+		Sat Oct 24 2020 21:31:59 GMT+0100 (British Summer Time)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .autogit/autogit.json
+* Vault-Consul-Docker/docker-compose.yml
+* Vault-Consul-Docker/vault/Dockerfile
+* Vault-Consul-Docker/vault/config/vault-config.json
+* Vault-Consul-Docker/vault/data/audit/9d66474f-47d6-06c9-abc1-bdd8c8074350/_salt
+* Vault-Consul-Docker/vault/data/core/_audit
+* Vault-Consul-Docker/vault/data/core/_auth
+* Vault-Consul-Docker/vault/data/core/_keyring
+* Vault-Consul-Docker/vault/data/core/_local-audit
+* Vault-Consul-Docker/vault/data/core/_local-auth
+* Vault-Consul-Docker/vault/data/core/_local-mounts
+* Vault-Consul-Docker/vault/data/core/_master
+* Vault-Consul-Docker/vault/data/core/_mounts
+* Vault-Consul-Docker/vault/data/core/_seal-config
+* Vault-Consul-Docker/vault/data/core/_shamir-kek
+* Vault-Consul-Docker/vault/data/core/cluster/_feature-flags
+* Vault-Consul-Docker/vault/data/core/cluster/local/_info
+* Vault-Consul-Docker/vault/data/core/hsm/_barrier-unseal-keys
+* Vault-Consul-Docker/vault/data/core/wrapping/_jwtkey
+* Vault-Consul-Docker/vault/data/logical/aca38d0c-2746-93d7-8ac5-015ba1b21857/_casesensitivity
+* Vault-Consul-Docker/vault/data/logical/ce6783aa-f325-6c78-7e2b-acd0d9dd6538/20573059-ce39-eaa2-4dc4-8ad03149a78a/_salt
+* Vault-Consul-Docker/vault/data/logical/ce6783aa-f325-6c78-7e2b-acd0d9dd6538/20573059-ce39-eaa2-4dc4-8ad03149a78a/_upgrading
+* Vault-Consul-Docker/vault/data/logical/ce6783aa-f325-6c78-7e2b-acd0d9dd6538/20573059-ce39-eaa2-4dc4-8ad03149a78a/archive/_metadata
+* Vault-Consul-Docker/vault/data/logical/ce6783aa-f325-6c78-7e2b-acd0d9dd6538/20573059-ce39-eaa2-4dc4-8ad03149a78a/metadata/5kKT2wpMOuQJKCH14GAeia4HgO1vJTZSqb4piFccQe5LOEtc8ckHqusJXlpFGX/_p0CmgmodDVgCs28v1TwG4ikfa73C43JVxdiffBnh0WzFDCuedQH5EFaZUvKwstkqsJn
+* Vault-Consul-Docker/vault/data/logical/ce6783aa-f325-6c78-7e2b-acd0d9dd6538/20573059-ce39-eaa2-4dc4-8ad03149a78a/metadata/_5kKV3mjdexWYXgSGU9AvSriyvJUmsI7rJGuDh1fn0HUhaxFD2Fm7STTZtw9VTL
+* Vault-Consul-Docker/vault/data/logical/ce6783aa-f325-6c78-7e2b-acd0d9dd6538/20573059-ce39-eaa2-4dc4-8ad03149a78a/policy/_metadata
+* Vault-Consul-Docker/vault/data/logical/ce6783aa-f325-6c78-7e2b-acd0d9dd6538/20573059-ce39-eaa2-4dc4-8ad03149a78a/versions/127/_cf342b0f606240aeb6feb98a35406909c2e50ea43f10b7f959ce09d83052c
+* Vault-Consul-Docker/vault/data/logical/ce6783aa-f325-6c78-7e2b-acd0d9dd6538/20573059-ce39-eaa2-4dc4-8ad03149a78a/versions/85f/_c58ce0471ff60c57f3bd41be28fa5d8c59f82d8f2c525daff000b1f0a4261
+* Vault-Consul-Docker/vault/data/sys/counters/requests/2020/_10
+* Vault-Consul-Docker/vault/data/sys/policy/_control-group
+* Vault-Consul-Docker/vault/data/sys/policy/_default
+* Vault-Consul-Docker/vault/data/sys/policy/_response-wrapping
+* Vault-Consul-Docker/vault/data/sys/token/_salt
+* Vault-Consul-Docker/vault/data/sys/token/accessor/_be820fc0ee415fd23c4ca5653db46f9aa35d0ec0
+* Vault-Consul-Docker/vault/data/sys/token/id/_he85be5735211fe9263a69e243bfec31aaadc01b584fc493180327a1665e08676
+* Vault-Consul-Docker/vault/logs/audit.log
+* Vault-Consul-Docker/vault/policies/app-policy.json
+* vault_1.5.5_linux_amd64.zip
+
+
+Deleted files:
+
+
+Renamed files:

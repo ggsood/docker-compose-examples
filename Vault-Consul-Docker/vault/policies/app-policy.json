@@ -1,6 +1,6 @@
 {
     "path": {
-      "secret/data/app/*": {
+      "kv/data/app/*": {
         "policy": "read"
       }
     }
