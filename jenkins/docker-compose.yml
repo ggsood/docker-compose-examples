@@ -1,0 +1,22 @@
+version: '3.8'
+services:
+  jenkins:
+    image: jenkins/jenkins:lts
+    privileged: true
+    user: root
+    ports:
+     - 8080:8080
+     - 50000:50000
+    container_name: jenkins
+    volumes:
+      - /home/gsood/docker_compose/jenkins_configuration:/var/jenkins_home
+      - /var/run/docker.sock:/var/run/docker.sock
+  agent:
+    image: jenkins/ssh-agent:jdk11
+    privileged: true
+    user: root
+    container_name: agent
+    expose:
+      - 22
+    environment:
+      - JENKINS_AGENT_SSH_PUBKEY=ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDfBqw4I27ZlZYM56NlSUVEYzzNch8x/vT0SOTRAV0IKEWirsxlMEN5Ldwamgo2aKgU2dexNu+/rjkSSfewedtMCClYtgBCls4uI6EM7uzpEOszodpulcdX05onoJzMiEuy3y0SA3jMawff7KEj2l6sz1lN9NvXBL4Du9fT++kQNDsAnEoiuxryQk9ILHfpnOEhKRdFQZiLZriHJuD5CtAWl3rcnKNMc1RzQ4SxgRephb25wVIXkmfaXg6ytZzRk8kQl+nMK6OTufnajdGcA4rCZmSkxTUXD27Kb+sVKY9N89t1GzbwIgRuwhNsdZVDgJFX1LstqoYeqGqsONiDCYoleZw6+h8mk/hmQc9BlaVNu9MuwD6Jebn1BLTv+Ez9KLrtc6UmOUane/mXbqYLocsD3IBEhRcVtTVxNhC/Ja/U2PoPV8RXn85dhEptWZh1yO1DzfhhscNn0UGrbANyW7GkE5FQAtoRj7zBDRcc1P+KiCsNsTNHIK6rbUFjucern5c= gsood@Gaurav-XPS
